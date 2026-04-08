@@ -15,7 +15,7 @@ Hello, I'm Pruthviraj, a postgraduate student specializing in Automation and Rob
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=KulboyRaj&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=A%20true%20engineer%20is%20someone%20who%20identifies%20problems%20and%20crafts%20innovative%20solutions%20to%20solve%20them...&author=KulboyRaj)
 
 ### 🔝 Top Contributed Repo
